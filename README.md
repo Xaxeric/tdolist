@@ -1,4 +1,4 @@
 # todo_list
 
 ![blabla](assets/ss2.png)
-![blabla](assets/ss1.png)
+![blabla](assets/ss.png)
