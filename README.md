@@ -1,3 +1,3 @@
 # todo_list
 
-![[assets/ss.png]]
+![blabla](assets/ss.png)
